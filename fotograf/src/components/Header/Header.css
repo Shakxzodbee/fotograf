@@ -1,6 +1,8 @@
 .wrapper{
-    background: url(../../assets/Image.png);
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
+    background: url(../../../src/assets/HeaderBagckround.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    font-family: 'Compact', sans-serif;
 }

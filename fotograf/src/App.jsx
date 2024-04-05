@@ -1,10 +1,11 @@
 import './App.css'
-import Headers from './components/Header/Header'
+import HeaderAbout from './components/Header/Header'
+
 function App() {
 
   return (
     <>
-    <Headers/>
+    <HeaderAbout/>
     </>
   )
 }
